@@ -3491,6 +3491,11 @@
   "resolved" "https://registry.npmjs.org/csstype/-/csstype-3.1.2.tgz"
   "version" "3.1.2"
 
+"ctmultiselect@*":
+  "integrity" "sha512-jgW5x3MPWCPlmyPfx7q4/uVwph9l/2Ee+63ElGgqY35j1M57rnj4XKGj4O+bwhYWENcZ+MUkXYMOXmHZ+YCLrQ=="
+  "resolved" "https://registry.npmjs.org/ctmultiselect/-/ctmultiselect-1.0.3.tgz"
+  "version" "1.0.3"
+
 "ctof@*":
   "integrity" "sha512-Y7LKRWW49eZbiyBtK7QeYND+k8RI86MtmfBWZW7UxnqGKVeEksSINiD5S0KDZ5kXS2F7elhZ1+AYu1HVkpQpEA=="
   "resolved" "https://registry.npmjs.org/ctof/-/ctof-1.0.0.tgz"
