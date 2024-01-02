@@ -8462,6 +8462,11 @@
   "resolved" "https://registry.npmjs.org/tapable/-/tapable-2.2.1.tgz"
   "version" "2.2.1"
 
+"tau@*":
+  "integrity" "sha512-iYajEYteg/RJS3qZDc6dI2yMy8t/IHH0uR2TbjLEr8fu1gDAmETYbOSFs05ZklgOapyWX4GAYl4l36daGylTFg=="
+  "resolved" "https://registry.npmjs.org/tau/-/tau-1.0.0.tgz"
+  "version" "1.0.0"
+
 "temp@^0.8.4":
   "integrity" "sha512-s0ZZzd0BzYv5tLSptZooSjK8oj6C+c19p7Vqta9+6NPOf7r+fxq0cJe6/oN4LTC79sy5NY8ucOJNgwsKCSbfqg=="
   "resolved" "https://registry.npmjs.org/temp/-/temp-0.8.4.tgz"
